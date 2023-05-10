@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SisayBekele
 - 👀 I’m interested in system development
-- 🌱 I’m currently working at Awash  Bank as a system development and  customization
+- 🌱 I’m currently working at Awash  Bank as a System Development and  Customization Directorate
 
 <!---
 SisayBekele1/SisayBekele1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
